@@ -1,0 +1,1 @@
+{"result":"error","message":"Exception: Sandboxed code attempted to call non-whitelisted function: curl_init"}
